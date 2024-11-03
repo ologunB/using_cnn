@@ -1,5 +1,3 @@
-
-```markdown
 # CNN Implementation for MNIST Digit Classification
 
 ## Project Overview
